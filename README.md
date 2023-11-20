@@ -1,6 +1,8 @@
 # DSTPP(Darkmatter Simulation Tools for Poor Physicist)
 ## Demo video
-![video](https://github.com/junobonnie/DSTPP/assets/60418809/1f8c7f0c-9d51-419c-a0bf-e8ddbc689be4)
+https://github.com/junobonnie/DSTPP/assets/60418809/1f8c7f0c-9d51-419c-a0bf-e8ddbc689be4
+
+https://youtu.be/upUZoDzdk48
 
 <br>
 <br>
